@@ -1,6 +1,6 @@
-# Real-CATS Dataset:  Real World Dataset of Cryptocurrency Addresses with Transaction Profiles
+# Real-CAD Dataset:  Real World Dataset of Cryptocurrency Addresses with Transaction Profiles
 
-The Real-CATS dataset includes 103,203 criminal addresses from real-world reports and 106,196 benign addresses from exchange customers until May 30, 2024. We hope this dataset can contribute to cryptocurrency anti-money laundering research and foster the healthy development of the blockchain ecosystem.
+The Real-CAD dataset includes 103,203 criminal addresses from real-world reports and 106,196 benign addresses from exchange customers until May 30, 2024. We hope this dataset can contribute to cryptocurrency anti-money laundering research and foster the healthy development of the blockchain ecosystem.
 
 Our paper can be found here:
 
@@ -14,7 +14,7 @@ The detailed transaction list for each address will be available soon.
 
 ### Dataset Overview
 
-The main body of Real-CATS dataset consists of four datasets as follows.
+The main body of Real-CAD dataset consists of four datasets as follows.
 
 | File Name | Address Num. | Label Num. | Feature Num. | Description                    |
 | --------- | ------------ | ---------- | ------------ | ------------------------------ |
@@ -23,7 +23,7 @@ The main body of Real-CATS dataset consists of four datasets as follows.
 | CE.tsv    | 12,561       | 21         | 52           | Criminal addresses on Ethereum |
 | BE.tsv    | 16,020       | 1          | 52           | Benign addresses on Ethereum   |
 
-For addresses on Ethereum, Real-CATS contains three files to describe the interactions with token contracts.
+For addresses on Ethereum, Real-CAD contains three files to describe the interactions with token contracts.
 
 | File Name      | Description                                                  |
 | -------------- | ------------------------------------------------------------ |
