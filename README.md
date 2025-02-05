@@ -2,7 +2,7 @@
 
 The Real-CATS dataset includes 103,203 criminal addresses from real-world reports and 106,196 benign addresses from exchange customers until May 30, 2024. We hope this dataset can contribute to cryptocurrency anti-money laundering research and foster the healthy development of the blockchain ecosystem.
 
-The detailed transaction record for each address is available at: https://www.kaggle.com/datasets/lvd312393/real-cats. Ethereum part has been uploaded. The Bitcoin and Sup-CATS transaction record will be uploaded in a few days.
+The detailed transaction record for each address is available at: https://www.kaggle.com/datasets/lvd312393/real-cats. 
 
 
 ### Target Audience
